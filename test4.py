@@ -1,0 +1,2 @@
+def Otukare():
+    print("Otukare")
